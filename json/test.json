@@ -1,0 +1,24 @@
+{"data":[
+    {
+		"kd_client":"2",
+		"nama_wp":"wp satu",
+		"kd_jenispajak":"2",
+		"jenis_pajak":"pajak satu",
+		"id_transaksi":"1",
+		"waktu_trx":"2017-12-13 06:00:00",
+		"nilai_trx":"10000",
+		"disc_trx":"0",
+		"keterangan":"keterangan satu"
+    	},
+    	{
+		"kd_client":"3",
+		"nama_wp":"wp dua",
+		"kd_jenispajak":"3",
+		"jenis_pajak":"pajak dua",
+		"id_transaksi":"2",
+		"waktu_trx":"2017-12-13 06:15:00",
+		"nilai_trx":"15000",
+		"disc_trx":"100",
+		"keterangan":"keterangan dua"
+    	}
+]}
